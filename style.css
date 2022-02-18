@@ -22,6 +22,11 @@ main{
   font-family: 'Heebo', sans-serif;
 }
 
+span{
+  color: rgb(143, 26, 238);
+  font-size: 29pt;
+}
+
 main img{
   border-radius: 50%;
   border: 5px solid blueviolet;
